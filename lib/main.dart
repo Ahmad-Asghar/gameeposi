@@ -5,7 +5,7 @@ import 'package:get/get.dart';
 import 'view/second.dart';
 import 'view/bottom.dart';
 void main() {
-
+//Hi i am commmiting in JIRA
   runApp( MyApp());
 }
 class MyApp extends StatelessWidget {
